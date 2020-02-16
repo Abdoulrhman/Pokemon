@@ -1,0 +1,15 @@
+.PokedexCard {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+  margin: 1rem;
+}
+.Pokedex {
+  text-align: center;
+}
+.Winner {
+  color: goldenrod;
+}
+.Losser {
+  color: red;
+}
